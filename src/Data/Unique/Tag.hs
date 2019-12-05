@@ -8,7 +8,6 @@ module Data.Unique.Tag
     
     , RealWorld
     
-    , (:=)(..)
     , GEq(..)
     
     , GOrdering(..)
